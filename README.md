@@ -10,4 +10,4 @@
 3. Run `python -m spacy download it_core_news_sm` 
  4. Run `main.py` 
  
- For the list of all available models [visit:] (`https://spacy.io/usage/models`)
+- For the list of all available models [visit:](https://spacy.io/usage/models) 
